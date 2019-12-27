@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Home Page",
+  "usingComponents": {
+    "hello-world": "/components/HelloWorld"
+  }
+}
